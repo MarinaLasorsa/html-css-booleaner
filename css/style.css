@@ -26,3 +26,20 @@ h1 {
     font-size: 20px;
     margin: 0;
 }
+
+.highlighted {
+    background-color: yellow;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+thead {
+    background-color: rgb(78, 160, 255);
+    color: white;
+}
+
+.blue-row {
+    background-color: rgb(176, 213, 255);
+}
