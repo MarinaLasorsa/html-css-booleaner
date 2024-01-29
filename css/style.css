@@ -43,3 +43,29 @@ thead {
 .blue-row {
     background-color: rgb(176, 213, 255);
 }
+
+h4 {
+    color: rgb(119, 119, 119);
+    margin-bottom: 10px;
+}
+
+#anteprima1 {
+    margin-bottom: 10px;
+    width: 260px;
+    height: 200px;
+    background-image: url(../img/monitor.jpg);
+    font-size: 20px;
+    color: white;
+    padding-left: 7px;
+    padding-top: 10px;
+}
+
+#anteprima2 {
+    width: 260px;
+    height: 200px;
+    background-image: url(../img/graph.jpg);
+    font-size: 20px;
+    color: white;
+    padding-left: 7px;
+    padding-top: 10px;
+}
