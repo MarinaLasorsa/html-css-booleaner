@@ -10,3 +10,19 @@
 .logo {
     width: 200px;
 }
+
+main {
+    padding-left: 100px;
+    padding-right: 80px;
+}
+
+h1 {
+    font-size: 50px;
+    margin-bottom: 0;
+}
+
+.credit {
+    color: rgb(119, 119, 119);
+    font-size: 20px;
+    margin: 0;
+}
