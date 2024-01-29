@@ -1,0 +1,12 @@
+.main-header {
+    background-color: rgb(78, 160, 255);
+    background-image: url(../img/pattern.png);
+    background-size: 250px;
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-bottom: 10px;
+}
+
+.logo {
+    width: 200px;
+}
